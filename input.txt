@@ -1,0 +1,8 @@
+A B 10
+A C 10
+B C 8
+B D 24
+C D 18
+D C 19
+E F 7
+F C 6
